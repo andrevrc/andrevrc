@@ -1,6 +1,15 @@
-### Hi there 👋
+## Hi, I'm André
+
+A web developer who likes data, machine learning, and artificial intelligence.
+
+Here you will find what I'm studying and things I'm curious about.
+
+
 
 <!--
+### Hi there 👋
+
+
 **andrevrc/andrevrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
